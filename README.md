@@ -36,7 +36,7 @@
 | 🧮 **[Calculator](https://github.com/yousseftarekx2-tech/calcuratour.git)** | A basic calculator app that handles arithmetic operations. | C++ |
 | 🏨 **[Hotel Management System](https://github.com/yousseftarekx2-tech/hotel-management-system.git)** | Management system for hotel bookings, rooms, and guests. | C++ / Web |
 | 🔢 **Number Counter** | A small program that counts numbers and demonstrates loops and conditionals. | C++ |
-| 🌐 **Portfolio Website** | A simple personal portfolio using HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
+| 🌐 **[Portfolio Website](https://github.com/yousseftarekx2-tech/portfolio.git)** | A simple personal portfolio using HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
 | 🐍 **Python Mini Project** | Small Python script that automates simple tasks or performs basic data processing. | Python |
 
 ---
