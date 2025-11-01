@@ -35,7 +35,7 @@
 | 📚 **[Online Library System](https://github.com/yousseftarekx2-tech/online-library-system)** | A system for managing library operations (books, users etc.). | C++ / Web |
 | 🧮 **[Calculator](https://github.com/yousseftarekx2-tech/calcuratour.git)** | A basic calculator app that handles arithmetic operations. | C++ |
 | 🏨 **[Hotel Management System](https://github.com/yousseftarekx2-tech/hotel-management-system.git)** | Management system for hotel bookings, rooms, and guests. | C++ / Web |
-| 🔢 **Number Counter** | A small program that counts numbers and demonstrates loops and conditionals. | C++ |
+| 🔢 **[Simole pomodoro timer](https://github.com/yousseftarekx2-tech/simple-pomodoro-timer.git)** | A small Python script that counts down user-defined minutes and shows the remaining time. | Python |
 | 🌐 **[Portfolio Website](https://github.com/yousseftarekx2-tech/portfolio.git)** | A simple personal portfolio using HTML, CSS. | HTML, CSS |
 | 🐍 **[Python Mini Project](https://github.com/yousseftarekx2-tech/snake-game-levels.git)** | Small Python script that automates simple tasks or performs basic data processing. | Python |
 
