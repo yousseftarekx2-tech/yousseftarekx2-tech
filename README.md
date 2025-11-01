@@ -25,6 +25,7 @@
 #### 🧩 Core Concepts  
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-1ABC9C?style=for-the-badge&logo=files&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
